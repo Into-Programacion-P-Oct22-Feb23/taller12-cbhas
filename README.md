@@ -6,6 +6,8 @@
 
 ***
 
+Sebastián Clderón & Raúl Medina
+
 ### Problema 01
 Dado el siguiente arreglo
 ```
